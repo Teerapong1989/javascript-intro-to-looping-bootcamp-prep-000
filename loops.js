@@ -28,7 +28,7 @@ do {
 } while (incrementVariable() < 5);
 
 function doWhileLoop(array){
-  function incrementVariable(){
-    return Math.value()
+  function incrementVariable() < num{
+    console.log(num)
   }
 }
