@@ -28,5 +28,7 @@ do {
 } while (incrementVariable() < 5);
 
 function doWhileLoop(array){
-  
+  function incrementVariable(){
+    
+  }
 }
