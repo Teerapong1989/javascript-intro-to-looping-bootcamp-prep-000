@@ -29,6 +29,6 @@ do {
 
 function doWhileLoop(array){
   function incrementVariable(){
-    
+    return Math.value()
   }
 }
