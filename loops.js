@@ -27,6 +27,6 @@ do {
   console.log("doo-bee-doo-bee-doo");
 } while (incrementVariable() < 5);
 
-function doWhileLoop(){
+function doWhileLoop(array){
   
 }
