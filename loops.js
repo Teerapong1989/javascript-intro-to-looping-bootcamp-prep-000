@@ -28,7 +28,11 @@ do {
 } while (incrementVariable() < 5);
 
 function doWhileLoop(array){
-  function incrementVariable() < num{
-    console.log(num)
-  }
-}
+	function maybeTrue() {
+  return Math.random() >= 0.5
+	}
+	do {
+		array.pop();
+	} while(array.length > 0 && maybeTrue());
+	return array;
+} 
